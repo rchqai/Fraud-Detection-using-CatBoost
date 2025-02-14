@@ -74,7 +74,7 @@ Response:
 
 ## 📬 Contact
 👨‍💻 Developed by **rchqai**  
-📧 Email: your.email@example.com  
+📧 Email: rchq.in@icloud.com  
 🔗 GitHub: [rchqai](https://github.com/rchqai)  
 
 🌟 **Star this repo if you found it useful!** ⭐
